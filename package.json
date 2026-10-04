@@ -1,0 +1,12 @@
+{
+  "name": "tallybird-emails",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Promotional and transactional HTML emails for Tallybird (fictional invoicing app).",
+  "scripts": {
+    "check": "node scripts/check.mjs",
+    "screenshots": "node scripts/screenshots.mjs"
+  },
+  "engines": { "node": ">=22" }
+}
